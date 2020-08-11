@@ -4,6 +4,8 @@ Because I'm not the only one who mistypes [hockeyapp.net](hockeyapp.net)...
 
 [![Google Analytics dashboard showing traffic to hocketapp.net](https://pbs.twimg.com/media/DNVn3z2VoAICHlf.jpg:large)](hocketapp.net)
 
+Microsoft has fully transitioned the HockeyApp service and branding to [App Center](https://appcenter.ms), so **this domain will expire after September 15, 2020.**
+
 ## Code of Conduct
 
 We are committed to fostering an open and welcoming environment. Please read our [code of conduct](CODE_OF_CONDUCT.md) before participating in or contributing to this project.
